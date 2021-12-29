@@ -1,3 +1,3 @@
 [build]
-  publish = "dist"  //Que carpeta desplegamos
-  command = "npm run build"  //Que comando usamos
+  publish = "dist"  
+  command = "npm run build" 
